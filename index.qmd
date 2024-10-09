@@ -3,17 +3,24 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/9469687.jpg
 ---
 
 :::{#me}
+I am a second year PhD student studying Nutritional Sciences at University of New Hampshire. 
 
 ## Goals
+I hope to pursue a career in research, specifically focusing on nutrition epidemiology and data science. 
 
 ## Education
+B.S. Nutrition and Dietetics, Drexel University, 2020
 
-## Experience
+M.S. Nutrition and Metabolism, Boston University, 2023
 
+Ph.D. Nutritional Sciences, University of New Hampshire, Anticipated Graduation 2027
+
+## Hobbies
+Olympic weightlifting
 :::
 
 Thanks for checking out my web site!
